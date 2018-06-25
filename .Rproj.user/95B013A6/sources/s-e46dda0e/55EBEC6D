@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1529929628075.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1669604424",
+    "id" : "55EBEC6D",
+    "lastKnownWriteTime" : 1529929643,
+    "last_content_update" : 1529929643090,
+    "path" : "~/nes/nes_rad/3_parametric_bootstrap.R",
+    "project_path" : "3_parametric_bootstrap.R",
+    "properties" : {
+        "cursorPosition" : "116,0",
+        "scrollLine" : "93"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

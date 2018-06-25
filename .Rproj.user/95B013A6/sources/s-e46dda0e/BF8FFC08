@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1529929657648.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2858745496",
+    "id" : "BF8FFC08",
+    "lastKnownWriteTime" : 1529929668,
+    "last_content_update" : 1529929668920,
+    "path" : "~/nes/nes_rad/4_collect_bootstraps.R",
+    "project_path" : "4_collect_bootstraps.R",
+    "properties" : {
+        "cursorPosition" : "10,31",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

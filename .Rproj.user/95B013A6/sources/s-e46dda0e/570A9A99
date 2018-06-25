@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1529929704695.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "896373481",
+    "id" : "570A9A99",
+    "lastKnownWriteTime" : 1529916755,
+    "last_content_update" : 1529916755,
+    "path" : "~/nes/nes_rad/inbreeding_depression_analysis.R",
+    "project_path" : "inbreeding_depression_analysis.R",
+    "properties" : {
+    },
+    "relative_order" : 12,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1529929693598.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1468983667",
+    "id" : "8328EE74",
+    "lastKnownWriteTime" : 1529911092,
+    "last_content_update" : 1529911092,
+    "path" : "~/nes/nes_rad/emily_inbreeding.R",
+    "project_path" : "emily_inbreeding.R",
+    "properties" : {
+    },
+    "relative_order" : 9,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

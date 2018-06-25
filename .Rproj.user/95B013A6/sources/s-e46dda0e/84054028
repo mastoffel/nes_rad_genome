@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1529929645437.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3934984880",
+    "id" : "84054028",
+    "lastKnownWriteTime" : 1529929656,
+    "last_content_update" : 1529929656719,
+    "path" : "~/nes/nes_rad/3_run_bootstrap_sfs.R",
+    "project_path" : "3_run_bootstrap_sfs.R",
+    "properties" : {
+        "cursorPosition" : "41,34",
+        "scrollLine" : "18"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

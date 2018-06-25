@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1529929697859.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "326472CB",
+    "lastKnownWriteTime" : 1529914886,
+    "last_content_update" : 1529914886,
+    "path" : "~/nes/nes_rad/fastsimcoal_file_creation.R",
+    "project_path" : "fastsimcoal_file_creation.R",
+    "properties" : {
+        "cursorPosition" : "3,39",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 10,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

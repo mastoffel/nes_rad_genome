@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1529929613642.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2076652887",
+    "id" : "458623AD",
+    "lastKnownWriteTime" : 1529929626,
+    "last_content_update" : 1529929626458,
+    "path" : "~/nes/nes_rad/2_collect_fsc_run.R",
+    "project_path" : "2_collect_fsc_run.R",
+    "properties" : {
+        "cursorPosition" : "7,38",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
